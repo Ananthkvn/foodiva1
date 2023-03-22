@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">foodapp</string>
+    <string name="welcome_text">Welcome to</string>
+    <string name="heading_name">Foodiva</string>
+    <string name="heading_sub_text">YOUR FAVOURITE FOODS DELIVERED</string>
+    <string name="heading_sub_text2">FAST AT YOUR DOOR</string>
+    <string name="signin_phone_btn">Start with your phone number</string>
+    <string name="or_sign_in">or Sign in with</string>
+    <string name="google_text">GOOGLE</string>
+    <string name="phone_number_tv">Enter Your Phone Number</string>
+    <string name="later_text">Later</string>
+    <string name="already_account">Already Have an Account?
+        <font color="#15BE77"><u><b>Sign In</b></u></font>
+    </string>
+    <string name="verification_code">Verification Code</string>
+    <string name="type_verification_code">Please type the verification code to</string>
+</resources>
